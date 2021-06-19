@@ -2,7 +2,7 @@
 
 ## Font details
 
-* [JetBrains Mono](https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts.css)
+* [JetBrains Mono](https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-jetbrains-mono.css)
 
 **NOTE**: One must use a raw github link for this to work.
 
@@ -12,5 +12,6 @@
 * Paste the following command:
 
 ```javascript
-term_.prefs_.set('user-css', 'https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts.css');
+term_.prefs_.set('user-css',
+'https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-jetbrains-mono.css');
 ```
