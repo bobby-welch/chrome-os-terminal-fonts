@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Cascadia Code";
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://CascadiaCode.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Cascadia Code";
+  font-style: italic;
+  font-weight: normal;
+  src: url("https://CascadiaCodeItalic.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Cascadia Code";
+  font-style: normal;
+  font-weight: bold;
+  src: url("https://CascadiaCode.woff2")
+    format("woff2");
+}
+
+* {
+  -webkit-font-feature-settings: "liga" on, "calt" on;
+  -webkit-font-smoothing: antialiased;
+  font-family: "Cascadia Code", monospace;
+  text-rendering: optimizeLegibility;
+}
