@@ -2,24 +2,21 @@
   font-family: "Cascadia Code";
   font-style: normal;
   font-weight: normal;
-  src: url("https://CascadiaCode.woff2")
-    format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/CascadiaCode.woff2?raw=true") format("woff2");
 }
 
 @font-face {
   font-family: "Cascadia Code";
   font-style: italic;
   font-weight: normal;
-  src: url("https://CascadiaCodeItalic.woff2")
-    format("woff2");
+  src: url("https://github.com/bobby-welch/chrome-os-terminal-fonts/blob/main/CascadiaCodeItalic.woff2?raw=true") format("woff2");
 }
 
 @font-face {
   font-family: "Cascadia Code";
   font-style: normal;
   font-weight: bold;
-  src: url("https://CascadiaCode.woff2")
-    format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/CascadiaCode.woff2?raw=true") format("woff2");
 }
 
 * {
