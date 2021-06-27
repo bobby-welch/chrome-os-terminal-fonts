@@ -4,7 +4,8 @@
 
 * [JetBrains Mono](https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-jetbrains-mono.css)
 * [Cascadia
-    Code](https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-cascadia-code.css)
+    Code](https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css)
+    
 
 **NOTE**: One must use a raw github link for this to work.
 
@@ -14,6 +15,10 @@
 * Paste the following command:
 
 ```javascript
+// JetBrains Mono
 term_.prefs_.set('user-css',
 'https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-jetbrains-mono.css');
+// MS Cascadia Code
+hterm_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css');
 ```
+
