@@ -21,10 +21,7 @@ term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-t
 
 // MS Cascadia Code
 term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css');
-```
 
-```javascript
 // PragmataPro - Non-free.  You will need to purchase and update links
 term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css');
-//
-
+```
