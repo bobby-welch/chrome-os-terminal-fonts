@@ -23,5 +23,5 @@ term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-t
 term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css');
 
 // PragmataPro - This font is not free.  Purchase and update links.
-term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css');
+term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-pragmata-pro-ligatures.css');
 ```
