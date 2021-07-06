@@ -22,6 +22,6 @@ term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-t
 // MS Cascadia Code
 term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css');
 
-// PragmataPro - Non-free.  You will need to purchase and update links
+// PragmataPro - This font is not free.  Purchase and update links.
 term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css');
 ```
