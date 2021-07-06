@@ -5,6 +5,7 @@
 * [JetBrains Mono](https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-jetbrains-mono.css)
 * [Cascadia
     Code](https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css)
+* [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
     
 
 **NOTE**: One must use a raw github link for this to work.
@@ -21,4 +22,9 @@ term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-t
 // MS Cascadia Code
 term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css');
 ```
+
+```javascript
+// PragmataPro - Non-free.  You will need to purchase and update links
+term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css');
+//
 
