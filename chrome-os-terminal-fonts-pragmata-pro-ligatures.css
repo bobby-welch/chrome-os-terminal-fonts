@@ -2,7 +2,7 @@
   font-family: "PragmataPro";
   font-style: normal;
   font-weight: normal;
-  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataProR_liga_0829.ttf?raw=true") format("ttf");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataProR_liga_0829.woff2?raw=true") format("woff2");
 }
 
 
@@ -10,15 +10,14 @@
   font-family: "PragmataPro";
   font-style: italic;
   font-weight: normal;
-  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataProI_liga_0829.ttf?raw=true") format("ttf");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataProI_liga_0829.woff2?raw=true") format("woff2");
 }
-
 
 @font-face {
   font-family: "PragmataPro";
   font-style: normal;
   font-weight: bold;
-  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataProB_liga_0829.ttf?raw=true") format("ttf");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataProB_liga_0829.woff2?raw=true") format("woff2");
   
 }
 
@@ -26,7 +25,7 @@
   font-family: "PragmataPro";
   font-style: italic;
   font-weight: bold;
-  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataProZ_liga_0829.ttf?raw=true") format("ttf");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataProZ_liga_0829.woff2?raw=true") format("woff2");
 }
 
 * {
