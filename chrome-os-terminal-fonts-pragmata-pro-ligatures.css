@@ -26,7 +26,7 @@
   font-family: "PragmataPro";
   font-style: italic;
   font-weight: bold;
-  src: url("https://github.com/bobby-welch/non-free-fonts/blob/master/PragmataProZ_liga_0829.ttf?raw=true") format("ttf");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataProZ_liga_0829.ttf?raw=true") format("ttf");
 }
 
 * {
