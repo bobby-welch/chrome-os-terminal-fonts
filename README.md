@@ -12,7 +12,7 @@
 ## Set fonts for the Chrome OS terminal
 
 * Open the JS terminal for the Chrome OS terminal via `ctrl-shift-J`
-* Paste one of the following commands:
+* Paste one of the following commands into the JS terminal:
 
 ```javascript
 // JetBrains Mono
