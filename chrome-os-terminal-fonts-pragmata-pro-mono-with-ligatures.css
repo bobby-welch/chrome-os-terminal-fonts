@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "PragmataProMono";
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataPro_Mono_R_liga_0829.woff2?raw=true") format("woff2");
+}
+
+
+@font-face {
+  font-family: "PragmataProMono";
+  font-style: italic;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataPro_Mono_I_liga_0829.woff2?raw=true") format("woff2");
+}
+
+@font-face {
+  font-family: "PragmataProMono";
+  font-style: normal;
+  font-weight: bold;
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataPro_Mono_B_liga_0829.woff2?raw=true") format("woff2");
+  
+}
+
+@font-face {
+  font-family: "PragmataProMono";
+  font-style: italic;
+  font-weight: bold;
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/PragmataPro_Mono_Z_liga_0829.woff2?raw=true") format("woff2");
+}
+
+* {
+  -webkit-font-feature-settings: "liga" on, "calt" on;
+  -webkit-font-smoothing: antialiased;
+  font-family: "PragmataProMono", monospace;
+  text-rendering: optimizeLegibility;
+}
