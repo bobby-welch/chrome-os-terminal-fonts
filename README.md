@@ -27,7 +27,9 @@ term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-t
 ```javascript
 // PragmataPro - This font is not free.  Purchase and update links.
 term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-pragmata-pro-with-ligatures.css');
+```
 
+```javascript
 // PragmataProMono - This font is not free.  Purchase and update links.
 term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-pragmata-pro-mono-with-ligatures.css
 ');
