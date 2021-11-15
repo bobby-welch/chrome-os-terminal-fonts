@@ -25,7 +25,7 @@ term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-t
 ```
 
 ```javascript
-// JetBrains Mono Light
+// JetBrains Mono Light Nerd Font
 term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-jetbrains-mono-light-nerd.css');
 ```
 
