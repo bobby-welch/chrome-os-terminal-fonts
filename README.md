@@ -25,6 +25,11 @@ term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-t
 ```
 
 ```javascript
+// JetBrains Mono Light
+term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-jetbrains-mono-light-nerd.css');
+```
+
+```javascript
 // MS Cascadia Code
 term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-ms-cascadia-code.css');
 ```
