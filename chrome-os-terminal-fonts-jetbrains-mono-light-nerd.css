@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "JetBrains Mono Light";
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/JetBrainsMono-Light.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono Light";
+  font-style: italic;
+  font-weight: normal;
+  src: url("https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/JetBrainsMono-LightItalic.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono Light";
+  font-style: normal;
+  font-weight: bold;
+  src: url("https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/JetBrainsMono-SemiBold.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "JetBrains Mono Light";
+  font-style: italic;
+  font-weight: bold;
+  src: url("https://raw.githubusercontent.com/JetBrains/JetBrainsMono/master/fonts/webfonts/JetBrainsMono-SemiBoldItalic.woff2")
+    format("woff2");
+}
+
+* {
+  -webkit-font-feature-settings: "liga" on, "calt" on;
+  -webkit-font-smoothing: antialiased;
+  font-family: "JetBrains Mono Light";
+  text-rendering: optimizeLegibility;
+}
