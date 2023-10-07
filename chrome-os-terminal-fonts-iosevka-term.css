@@ -2,28 +2,28 @@
   font-family: "Iosevka Term";
   font-style: normal;
   font-weight: normal;
-  src: url("") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/iosevka-term-regular.woff2?raw=true") format("woff2");
 }
 
 @font-face {
   font-family: "Iosevka";
   font-style: normal;
   font-weight: bold;
-  src: url("") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/iosevka-term-bold.woff2?raw=true") format("woff2");
 }
 
 @font-face {
   font-family: "Iosevka";
   font-style: italic;
   font-weight: normal;
-  src: url("") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/iosevka-term-italic.woff2?raw=true") format("woff2");
 }
 
 @font-face {
   font-family: "Iosevka";
   font-style: italic;
   font-weight: bold;
-  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/CascadiaCodeItalic.woff2?raw=true") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/iosevka-term-bolditalic.woff2?raw=true") format("woff2");
 }
 
 * {
