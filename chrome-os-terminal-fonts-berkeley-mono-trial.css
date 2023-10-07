@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "BerkeleyMono";
+  font-style: normal;
+  font-weight: normal;
+  src: url("https://cdn.jsdelivr.net/gh/bobby-welch/non-free-fonts@master/BerkeleyMonoTrial-Regular.woff2?raw=true") format("woff2");
+}
+
+* {
+  -webkit-font-feature-settings: "liga" on, "calt" on;
+  -webkit-font-smoothing: antialiased;
+  font-family: "BerkeleyMono", monospace;
+  text-rendering: optimizeLegibility;
+}
