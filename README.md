@@ -46,5 +46,5 @@ term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-t
 
 ```javascript
 // Berkely Mono trial - This font is not free.  Purchase and update links.
-term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-berkeley-mono-trial.css');
+term_.prefs_.set('user-css','https://cdn.jsdelivr.net/gh/bobby-welch/chrome-os-terminal-fonts@main/chrome-os-terminal-fonts-berkeley-mono-trial-font.css');
 ```
